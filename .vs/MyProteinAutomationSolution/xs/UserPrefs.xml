@@ -1,0 +1,41 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4FACB438-EA80-4EF8-94BC-6FE1BA957982}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyProteinAutomationSolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProteinAutomationSolution" expanded="True" selected="True">
+            <Node name="MyProteinAutomationSolution" expanded="True">
+              <Node name="PageObjects" expanded="True">
+                <Node name="HomePage" expanded="True" />
+                <Node name="LoginPage" expanded="True" />
+                <Node name="ProductPage" expanded="True" />
+                <Node name="RegisterPage" expanded="True" />
+              </Node>
+              <Node name="Tests" expanded="True" />
+              <Node name="Utils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MyProteinAutomationSolution" expanded="True">
+            <Node name="MyProteinAutomationSolution" expanded="True">
+              <Node name="MyProteinAutomationSolution" expanded="True">
+                <Node name="LoginTests" expanded="True" />
+                <Node name="ProductTests" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

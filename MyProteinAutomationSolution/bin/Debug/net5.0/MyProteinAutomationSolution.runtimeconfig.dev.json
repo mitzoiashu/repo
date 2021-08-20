@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/octavianmorarita/.dotnet/store/|arch|/|tfm|",
+      "/Users/octavianmorarita/.nuget/packages"
+    ]
+  }
+}
